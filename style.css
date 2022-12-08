@@ -1,0 +1,449 @@
+*{
+    margin: 0 ;
+    padding: 0 ;
+    font-family: Montserrat;
+}
+
+.fatima{
+    color: white;
+}
+.navbarList li {
+    margin:10px ;
+    font-weight: 600;
+    font-size: 18px;
+
+}
+.navbarList button:hover{
+    background-color: white;
+}
+
+.firstPart{
+    background-color: #10462D;
+    transform: scale(1); 
+    color: white;
+
+}
+.carlogo{
+    width: 20vw;
+}
+
+.carIcon{
+    width: 5vw;
+}
+.mobilePic{
+    
+    
+    width: 40vw;
+    /* margin-left: 50px; */
+}
+.fontStyle{
+    font-weight: 400;
+    font-size: 19px;
+}
+.imgPart{
+    display: flex;
+    justify-content: flex-end;
+}
+.mainDiv{
+    margin-top: 50px;
+}
+.upperHeading{
+    font-size: 45px;
+    font-weight: 700;
+}
+.lowerHeading{
+    font-size: 3rem;
+    font-weight: 700;
+    color: #26A66A;
+}
+.btnsizes{
+    width: 7vw;
+}
+.navbarSet{
+    margin: 20px;
+}
+.Login{
+    background-color: #26A66A;
+}
+.navbarSet a {
+    color: #FFFFFF;
+    margin-left: 5pt;
+}
+.navbarSet a:hover {
+    color: #26A66A;
+    margin-left: 5pt;
+}
+/* .navbarSet:active {
+    color: #FFFFFF;
+    /* margin-left: 5pt; */
+.secondPart{
+    background-image: url("images/image2.png");
+    width: 100%;
+    padding-bottom: 220px;
+    background-size: cover;
+}
+.secondpartFont{
+    font-weight: 700;
+    font-size: 44px;
+    color: #10462D;
+    padding-left: 50px;
+    padding-top: 6rem;
+    
+    
+
+}
+.secondlogo{
+    width: 5vw;
+}
+.secondheading{
+    font-size: 24px;
+    font-weight: 600;
+}
+.secondpara{
+    font-size: 21px;
+    font-weight: 400;
+    margin-top: 5px;
+}
+.secondMargin{
+    margin-top: 50px;
+}
+.smallFont{
+    padding-left: 50px;
+    margin-top: 5px;
+}
+
+.img1{
+    width: 400px;
+
+}
+.contentImage{
+    margin-top: 100px;
+}
+.contentimage{
+    margin-top: 100px;
+}
+.section3Font{
+    color:#10462D;
+    font-family: Inter;
+    font-size: 39px;
+    font-weight: 700;
+}
+.section3para{
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+}
+.section3partition{
+    padding: 10px;
+}
+.anotherPicture{
+    background-color: #EAF9F3;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+.anotherPara{
+    width: 50%;
+    font: Inter;
+    font-weight: 400;
+    font-size: 18px;
+}
+.subButton{
+    color: #48A23FFD;
+    border-bottom: 1px solid #48A23FFD;
+}
+.mobileCar{
+    width: 40vw;
+}
+.section4{
+    background-image: url("images/map.png");
+    /* height: 50vh; */
+    width: 100%;
+    background-size: cover;
+    margin-top: 100px;
+}
+.driving{
+    font-weight: 700;
+    color: #10462D;
+    font-size: 35px;
+}
+.drivingPara{
+    font-weight: 400;
+    font-size: 16px;
+    color: #10462D;
+}
+.section4Button{
+    display: flex;
+    justify-content: space-between;
+    background-color: #10462D;
+    align-items: center;
+    color: white;
+    width: 30%;
+}
+.hello{
+    margin-left: auto;
+    margin-right: 0px;
+}
+.carGroup{
+    width: 30vw;
+}
+.carImages{
+    padding-top: 50px;
+}
+.section4mainDiv{
+   padding: 50px 50px;
+}
+.rideDiv{
+    height: 100px;
+}
+
+/* .ride{
+   background-image: url("images/ride.png");
+   background-size: cover; 
+   background-position: center;
+   /* background-repeat: no-repeat; */
+
+
+.ride{
+    background-image: url("images/ride.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 50%;
+    padding: 120px 50px;
+    margin: 0 auto;
+    border-radius: 10px;
+
+}
+.drive{
+    background-image: url("images/drive.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 50%;
+    padding: 120px 50px;
+    margin: 0 auto;
+    border-radius: 10px;
+
+}
+
+.rideAlong{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 100px;
+
+}
+.rideHeading{
+    color: #fff;
+    font-weight: 700;
+    text-align: center;
+    font-size: 30px;
+}
+.rideText{
+    color: #fff;
+    font-weight: 400;
+    text-align: center;
+    font-size: 20px;
+}
+.rideButton{
+    background-color: #26A66A !important;
+    display: block; 
+    margin: 0 auto;
+    color: white;
+}
+.pera{
+    /* width: 30%; */
+    /* margin-bottom: 50px; */
+    margin-left: 20px ;
+    font-weight: 500px;
+    font-size: 18px;
+}
+.pera h6{
+    /* width: 100%; */
+    margin-bottom: 35px;
+    /* display: inline; */
+
+}
+.listDivHeading{
+    font-weight: 700;
+    font-size: 36px;
+    color: #10462D;
+}
+.paraImage{
+    margin-top: 40px;
+}
+.contactus{
+    margin-top: 100px;
+}
+.listDiv{
+   
+    display: flex;
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+.lightGreen{
+    background-color: #EAFAF3;
+    padding: 50px;
+
+}
+.formFullDiv{
+    width: 90%;
+}
+.fullForm{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    padding: 5px;
+    margin: 0 auto;
+    /* display: block; */
+    /* justify-content: center; */
+    /* flex-direction: column; */
+
+}
+.firstName{
+    
+    padding: 15px;
+    /* border-radius: 10px; */
+    border: #EAFAF3;
+    margin-left: 20px;
+    width: 85%;
+    border-radius: 10px;
+}
+.firstNameHead{
+    margin-left: 20px;
+    font-weight: 500;
+    font-size: 20px;
+    color: #10462D;
+}
+.firstFormPart{
+    padding: 40px;
+    margin: 0 auto;
+}
+.message{
+    margin-left: 20px;
+    border: none;
+    width: 185%;
+    border-radius: 10px;
+    
+}
+.contactUs{
+    font-weight: 600;
+    font-size: 48px;
+    color: #10462D;
+}
+.query{
+    font-weight: 400;
+    size: 24px;
+    color: #10462D;
+}
+.formButton{
+    display: block;
+    width: 91.5%;
+    margin: 0 auto;
+    margin-top: 20px;
+    background-color: #10462D;
+}
+.publicRelation{
+    background-image: url("images/publicRelation.png");
+    width: 100%;
+    background-size: cover;
+    height: 871px ;
+}
+.box{
+    /* border: 2px solid white; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: #EAFAF3; */
+    
+}
+.halfPart{
+    margin-top: 300px;
+    color: white;
+
+}
+/* .questionLogo{
+    /* margin: 0 auto; */
+    /* align-items: center;
+    justify-content: center;
+    display: flex;
+} */ 
+
+
+.help{
+    font-size: 45px;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 10px;
+}
+.no{
+    font-weight: 600;
+    font-size:  25px;
+    margin-top: 10px;
+}
+.frequently{
+
+    display: block;
+    margin: 0 auto;
+    margin-top: 100px;
+    width: 80%;
+}
+.members{
+    font-weight: 700;
+    font-size: 30px;
+    color: #10462D;
+    text-align: center;
+}
+.footer{
+    background-color: #10462D;
+    margin-top: 50px;
+    height: 198px;
+}
+.foot{
+    /* display: flex; */
+}
+.footerList{
+    list-style: none;
+ 
+}
+.footerList a{
+    color: white;
+    text-decoration: none;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 18px;
+    font-weight: 600;
+
+}
+
+.logoList{
+    display: flex;
+    color: white;
+    list-style: none;
+}
+
+
+.logoList li{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.carImage{
+    display: block;
+    margin: 0 auto;
+}
+
+.peraText{
+    color: #10462D;
+    text-align: center;
+    font-weight: 400;
+}
+.footerCar{
+    margin-top: 100px;
+}
+.carlog{
+    width: 10vw;
+}
